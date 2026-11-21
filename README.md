@@ -13,7 +13,7 @@ Projeto acadêmico de CRUD (Create, Read, Update e Delete) desenvolvido com Node
 3. Instale e inicie:
 
 ```bash
-npm ci
+npm install
 npm start
 ```
 
